@@ -1,0 +1,47 @@
+Citation,Year,Method,Languages,EvalType,NumExamples,IsMultilingual,Agreement,Derivation,Inflection,TAME,Word formation,Determiners,Pronouns,Classifiers,Ergativity,Word order,Argument Structure,Adjuncts,Passive,Copula,Negation,Comparison,Interrogatives,Ellipsis,Coordination,Relative Clauses,Complex clauses,control&raising,Movement,Island Effects,Filler-Gap,Topicalization,Particles,Coverbs,Quantifiers,NPIs,Binding
+"Adeeba et al., (2025)",2025,['Template-based perturbation over annotated data'],['Urdu'],['Minimal pairs'],5696,False,check,,,,,,,,check,check,,check,,,,,,,,check,,,,,,,,,,,
+"Algayres et al., 2025",2025,['Semi-automatically'],['English'],[],,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Alrajhi et al., (2022)",2022,['Expert-written'],['Arabic'],['Minimal pairs'],3000,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Anh et al., (2024)",2024,['Translation'],"['Vietnamese', 'French', 'Spanish', 'Romanian', 'Portuguese', 'German']",['Nonce'],,True,,check,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Barbini et al., 2025",2025,"['Template-based generation', 'Translation']",['Italian'],['Minimal pairs'],2899,False,check,,,,,,,,,,,,,,,,,,,,,,,check,check,,,,check,,
+"Başar et al., (2025)",2025,['Semi-automatically'],['Turkish'],['Minimal pairs'],16000,False,check,check,,,,check,,,,check,check,,check,,,,,check,,check,,,,check,,,,,check,,check
+"Cavar et al., 2024",2024,"['Expert-written', 'Extracted from articles']","['Arabic', 'English', 'Gujarati\xa0', 'Japanese\xa0', 'Kumaoni', 'Navajo', 'Polish', 'Spanish', 'Telugu', 'Croatian', 'German', 'Hindi', 'Korean', 'Mandarin Chinese', 'Norwegian', 'Russian', 'Swedish', 'Ukrainian']",['Prompting'],1907,True,,,,,,,,,,,,,,,,,,check,,,,,,,,,,,,,
+"DeCarlo et al., (2023)",2023,['Expert-written'],['English'],['Minimal pairs'],576,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,check,
+"Dentella et al., (2023)",2023,['Extracted from articles'],['english'],['Prompting'],80,False,check,,,,,,,,,check,,,,,,check,,,,check,,,,,,,,,,,check
+"Gallagher et al., (2025)",2025,['tree-bank-based'],['Georgian'],['Minimal pairs'],370,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hale et al., (2024)",2024,['Template-based perturbation over annotated data'],"['Basque', 'German', 'Hungarian', 'Russian', 'Serbian']",['Minimal pairs'],,True,,,,,,,,,,check,,,,,,,,,,,,,,,,,,,,,
+"Hofmann et al., (2024)",2024,['Nonce'],['English'],"['Prompting', 'Minimal pairs']",200,False,,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hu et al., 2024",2024,['Extracted from articles'],['English'],['Minimal pairs'],80,False,check,,,,,,,,,check,,,,,,check,,,,check,,,,,,,,,,,check
+"Ismayilzada et al., (2025)",2025,['Corpus'],"['Turkish', 'Finnish']",['Prompting'],,True,,check,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jakubauskaite & Alhama, (2026)",2026,['Semi-automatically'],['Lithuanian'],['Minimal pairs'],305,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jumelet et al., (2025)",2025,['Template-based perturbation over annotated data'],"['Abkhazian', 'Akuntsu', 'Albanian', 'Amharic', 'Ancient_Greek', 'Ancient_Hebrew', 'Apurinã', 'Armenian', 'Basque', 'Belarusian', 'Bengali', 'Bhojpuri', 'Borôro', 'Breton', 'Bulgarian', 'Buriat', 'Catalan', 'Church_Slavonic', 'Classical_Armenian', 'Czech', 'Danish', 'Dutch', 'Egyptian_(Ancient)', 'English', 'Erzya', 'Estonian', 'Faroese', 'Finnish', 'French', 'Galician', 'Georgian', 'German', 'Gheg-Albanian', 'Gothic', 'Gujarati', 'Hebrew', 'H-P_Nahuatl', 'Hindi', 'Hittite', 'Hungarian', 'Icelandic', 'Irish', 'Italian', 'K’iche’', 'Kangri', 'Karelian', 'Karo_(Ethiopia)', 'Kazakh', 'Kirghiz', 'Komi-Permyak', 'Komi-Zyrian', 'Latin', 'Latvian', 'Ligurian', 'Lithuanian', 'Livvi', 'Low_German', 'Macedonian', 'Marathi', 'Middle_French', 'Modern_Greek', 'Moksha', 'Nhengatu', 'Nigerian_Pidgin', 'Northern_Kurdish', 'Northern_Sami', 'Old_French', 'Old_Russian', 'Ottoman_Turkish', 'Persian', 'Phrygian', 'Polish', 'Portuguese', 'Romanian', 'Russian', 'Sanskrit', 'Scottish_Gaelic', 'Serbo-Croatian', 'Skolt_Sami', 'Slovak', 'Slovenian', 'Spanish', 'Standard_Arabic', 'Swedish', 'Tamil', 'Tektiteko', 'Tupinambá', 'Turkish', 'Uighur', 'Ukrainian', 'Upper_Sorbian', 'Urdu', 'Urubú-Kaapor', 'Uzbek', 'Veps', 'Warlpiri', 'Welsh', 'Western_Armenian', 'Wolof', 'Yakut', 'Tenango_Nahuatl']",['Minimal pairs'],128321,True,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Kalouli et al., (2022)",2022,['Template-based generation'],['English'],['Cloze'],,False,,,,,,,,,,,,,,,check,,,,check,,,,,,,,,,check,,
+"Kobzeva et al., 2025",2025,['Expert-written'],"['English', 'Norwegian']",['Minimal pairs'],NS,True,,,,,,,,,,,,,,,,,,,,,,,,,check,,,,,,
+"Kryvosheieva et al., (2024)",2024,['Template-based generation'],"['Hindi', 'Basque', 'Swahili']",['Minimal pairs'],,True,check,,,,,,,check,check,,,,,,,,,,,,,,,,,,,,,,
+"Lakretz et al., 2022",2022,[],"['English', 'Italian']",['Minimal pairs'],,True,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Leong et al., (2023)",2023,['Expert-written'],['English'],['Minimal pairs'],140,False,,,,,,,,,,,,,check,,,,,,,,,,,,,,,,,,
+"Leong et al., 2023",2023,"['Extracted from articles', 'Translation']","['Indonesian', 'Tamil']",['Prompting'],680,True,,check,check,,,,,,,,check,,,,,,,,,,,,,,check,,,,,,
+"Li et al., (2023)",2023,['Template-based perturbation over annotated data'],['French'],"['Cloze', 'probing', 'Nonce']",96.079,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Liu et al., (2024)",2024,['Template-based generation'],['Chinese'],['Minimal pairs'],35000,False,,,,,,,,check,,,check,,check,,,,check,check,,check,,check,,,,check,check,,check,,check
+"McGiff et al., (2025)",2025,['Expert-written'],['Irish'],['Prompting'],,False,check,,check,,,check,check,,,check,,check,,check,,check,check,,,,,,,,,,,,,,
+"Oğuz et al., (2024)",2024,['Expert-written'],['Turkish'],['Prompting'],3000,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,check
+"Pérez-Mayos et al., 2021",2021,[],"['English', 'Spanish']",['Cloze'],,True,check,,,,,,,,,check,,,,,,,,,,check,,,,,check,,,,,check,
+"Shin et al., (2025)",2025,['Expert-written'],['Korean'],['Prompting'],330,False,,,,check,check,,,,,check,check,,,,,,,check,,,check,,,,,,,,,,
+"Someya and Oseki, 2023",2023,['Extracted from articles'],['Japanese'],['Minimal pairs'],331,False,check,,check,,,,,,,,check,,check,,,,,check,,,,check,,check,check,,,,check,,
+"Song et al., (2022)",2022,['Template-based perturbation over annotated data'],['Chinese'],['Minimal pairs'],38000,False,,,,check,,check,,check,,,,,,,,,check,,,check,,,check,,,,,,,check,check
+"Suijkerbuijk et al., 2025",2025,['Semi-automatically'],['Dutch'],['Minimal pairs'],8400,False,,,,,,,,,,,check,,,,,,,check,,,,,,check,check,,,,check,check,
+"Taktasheva et al., (2024)",2024,['Template-based perturbation over annotated data'],['Russian'],['Minimal pairs'],45000,False,check,,check,check,check,,,,,,check,,,,check,,,,,,,,,,,,,,,,check
+"Tepei et al., (2025)",2025,['Expert-written'],['Romanian'],['Cloze'],,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Táboas García et al., (2025)",2025,['Expert-written'],"['Italian', 'Portuguese', 'Spanish', 'Russian']",[],,True,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Volodina et al., (2021)",2021,['L2 Errors'],['Swedish'],['Nonce'],9596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Warstadt et al., 2020",2020,['Template-based generation'],['English'],['Minimal pairs'],67000,False,check,,,,,,,,,,check,,,,,,,check,,,,check,,check,check,,,,check,,check
+"Weissweiler et al., (2023)",2023,['nonce & rules'],"['Tamil', 'Turkish', 'German', 'English']",['Prompting'],237,True,,,check,check,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Weller-Di Marco et al., (2024)",2024,['Corpus'],['German'],"['Prompting', 'prompting-segmentation']",,False,,check,check,,check,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Wilkens et al., (2023)",2023,['Template-based perturbation over annotated data'],['Brazilian-Portuguese'],['Cloze'],1562,False,check,,,check,,,,,,,,check,check,,,,,,,,,,,,,,,,,,
+"Wilson et al., (2023)",2023,['Template-based generation'],['English'],['Other'],,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Xiang et al., (2021)",2021,['Template-based generation'],['Chinese'],['Minimal pairs'],1600,False,,,,,,,,check,,check,,check,check,,,,,,,,,,,,check,,check,check,,,check
+"Zaczynska et al., (2020)",2020,['Template-based generation'],['German'],['Minimal pairs'],13002,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Zhou et al., (2023)",2023,['Treebank'],['English'],['Prompting'],,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"de-Dios-Flores et al., (2022)",2022,[],['Galician'],['Minimal pairs'],6480,False,check,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"de-Dios-Flores et al., 2023",2023,['Expert-written'],"['Spanish', 'Galician']","['surprisal', 'Cloze']",,True,,,,,,,,,,,,,,,,,,,,,,check,,,,,,,,,
+"Ármannsson et al., 2025",2025,['Expert-written'],['Icelandic'],['Prompting'],1160,False,check,,,check,check,,,,,check,,,,,,,,check,,,,,check,check,,check,,,,,check
